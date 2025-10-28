@@ -1,0 +1,2 @@
+RAG stands for Retrieval-Augmented Generation.
+It combines a knowledge base with a language model to answer questions accurately.
